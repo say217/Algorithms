@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Print Numbers: Write a program to print numbers from 1 to 100 using a for loop.
+
+Sum of Numbers: Calculate the sum of the first n natural numbers using a for loop.
+
+Factorial: Write a program to calculate the factorial of a given number using a for loop.
+
+Multiplication Table: Generate the multiplication table of a given number using a for loop.
+
+Reverse Order: Print numbers from n to 1 in reverse order using a for loop.
+
+Even Numbers: Print all even numbers between 1 and 50 using a for loop.
+
+Odd Numbers: Print all odd numbers between 1 and 50 using a for loop.
+
+Fibonacci Series: Generate the first n terms of the Fibonacci series using a for loop.
+
+Prime Numbers: Write a program to print all prime numbers between 1 and 100 using a for loop.
+
+Sum of Digits: Find the sum of the digits of a given number using a for loop.
+
+Reverse a Number: Reverse a given number using a for loop.
+
+Armstrong Number: Check if a given number is an Armstrong number using a for loop.
+
+Pattern Printing: Print a right-angled triangle pattern of * using nested for loops:
+
+Inverted Triangle: Print an inverted triangle pattern using nested for loops:
+
+Sum of Squares: Calculate the sum of squares of the first n natural numbers using a for loop.
+
+Count Digits: Count the number of digits in a given number using a for loop.
+
+Palindrome Number: Check if a given number is a palindrome using a for loop.
+
+LCM and GCD: Find the LCM and GCD of two numbers using a for loop.
+
+Perfect Number: Check if a given number is a perfect number using a for loop.
+
+Number Pyramid: Print a number pyramid pattern using nested for loops:
+
+
+   1
+  121
+ 12321
+1234321
+
+*****
+****
+***
+**
+*
+
+*
+**
+***
+****
+*****

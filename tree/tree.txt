@@ -1,0 +1,56 @@
+🌱 Level 1: Basic Structure and Traversals
+
+👉 Goal: Understand how to create and traverse a binary tree.
+
+Create a binary tree using linked representation.
+
+Perform Inorder traversal (Left → Root → Right).
+
+Perform Preorder traversal (Root → Left → Right).
+
+Perform Postorder traversal (Left → Right → Root).
+
+Perform Level Order (Breadth-First) traversal using a queue.
+
+🧠 Concepts covered: Node structure, recursion, pointer linking, stack/queue logic.
+
+🌿 Level 2: Basic Properties
+
+👉 Goal: Learn to compute properties of the tree.
+6. Write a function to count the total number of nodes in a binary tree.
+7. Write a function to count the number of leaf nodes.
+8. Write a function to count the number of internal (non-leaf) nodes.
+9. Write a function to find the height (or depth) of a binary tree.
+10. Write a function to find the sum of all nodes.
+
+🧠 Concepts covered: Recursive tree traversal with return values, base conditions.
+
+🌴 Level 3: Searching and Comparing
+
+👉 Goal: Implement search and comparison operations.
+11. Write a function to search for a specific element in a binary tree.
+12. Write a function to find the maximum and minimum value in a binary tree.
+13. Write a program to check whether two binary trees are identical or not.
+
+🧠 Concepts covered: Tree traversal, condition checks, logical recursion.
+
+🌳 Level 4: Structural Manipulation
+
+👉 Goal: Understand structural changes in trees.
+14. Write a function to invert (mirror) a binary tree.
+15. Write a function to delete all nodes of a binary tree (free memory).
+16. Write a program to print all leaf nodes from left to right.
+17. Write a function to count nodes having exactly one child.
+
+🧠 Concepts covered: Recursion, tree symmetry, memory management.
+
+🌲 Level 5: Traversal Variations & Advanced Basics
+
+👉 Goal: Learn different traversal and view-based concepts.
+18. Write a program to print nodes level by level (using queue).
+19. Write a program to print all nodes at a given level k.
+20. Write a function to print the left view of the binary tree.
+21. Write a function to print the right view of the binary tree.
+22. Write a function to print boundary nodes (left boundary + leaves + right boundary).
+
+🧠 Concepts covered: Level order traversal, queue operations, view logic.
