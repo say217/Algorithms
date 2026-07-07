@@ -40,7 +40,7 @@ int main()
             }
         }
 
-        // No reachable unvisited node left
+     
         if(u == -1)
         {
             break;

@@ -31,7 +31,12 @@ int knapsack(int W, int wt[], int val[], int n) {
 
 int main() {
 
-    int val[] = {60, 100, 120};
+    int val[3];
+    for(int i = 0; i < 3; i++){
+        printf("ENter the value of item %d:", i + 1);
+        scanf("%d", &val[i]);
+    }
+    
     int wt[] = {10, 20, 30};
     int W = 50;   // capacity
     int n = 3;
