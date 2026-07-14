@@ -1,3 +1,6 @@
+
+
+#This is LeetCode 985 — Sum of Even Numbers After Queries.
 class Solution:
     def sumEvenAfterQueries(self, nums, queries):
         # Step 1: Calculate initial sum of even numbers

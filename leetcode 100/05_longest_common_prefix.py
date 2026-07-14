@@ -35,3 +35,6 @@ strings = input("Enter strings separated by space: ").split()
 result = longest_common_prefix(strings)
 
 print("Longest Common Prefix:", result)
+
+
+
