@@ -3,12 +3,13 @@ Class
 Object
 Attributes (Variables)
 Methods (Functions)
-Constructor (__init__)
+Constructor (__init__) 
 self keyword
 Creating objects
 Accessing attributes
 Calling methods
-2. Four Pillars of OOP (Most Important ⭐⭐⭐⭐⭐)
+
+2. Four Pillars of OOP ()
 Encapsulation
 Public members
 Protected members (_variable)
