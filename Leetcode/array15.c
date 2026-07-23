@@ -26,8 +26,6 @@ int main(){
 // return 0; ends the program right after finding the first valid pair
 
 
-/*!SECTION
-
 int found = 0;
 
 for (int i = 0; i < n && !found; i++) {
