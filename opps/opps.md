@@ -21,17 +21,21 @@ Abstract classes
 Abstract methods
 ABC
 @abstractmethod
+
 Inheritance
 Single inheritance
 Multiple inheritance
 Multilevel inheritance
 Hierarchical inheritance
 Hybrid inheritance
+
 Polymorphism
 Method overriding
 Duck typing
 Operator overloading
-Method overloading (using default arguments or *args)
+Method overloading (using default arguments or *args)=================================complete=======================
+
+
 3. Constructors
 Default constructor
 Parameterized constructor
