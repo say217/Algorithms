@@ -92,14 +92,17 @@ __call__
 __iter__
 __next__
 __del__
+
 9. super()
 Calling parent constructor
 Calling parent methods
 Multiple inheritance with super()
+
 10. Method Resolution Order (MRO)
 MRO
 Diamond Problem
 Class.mro()
+
 11. Composition
 Has-A relationship
 
