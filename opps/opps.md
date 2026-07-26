@@ -145,6 +145,8 @@ Custom decorators
 from abc import ABC
 Abstract class
 Abstract method
+
+
 18. Interfaces (Python Style)
 
 Using abstract classes to define interfaces.
@@ -167,8 +169,12 @@ using magic methods.
 __iter__
 __next__
 Custom iterator
+
+
 21. Callable Objects
 __call__()
+
+
 22. Object Copying
 Shallow Copy
 Deep Copy
@@ -221,6 +227,8 @@ Adapter
 Decorator
 Command
 Facade
+
+
 32. Python-Specific OOP Features
 Everything is an object
 First-class functions
@@ -229,6 +237,7 @@ Multiple inheritance
 Duck typing
 Dynamic typing
 Metaclasses (advanced)
+
 33. Important Built-in OOP Functions
 isinstance()
 issubclass()
