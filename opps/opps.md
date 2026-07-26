@@ -109,31 +109,38 @@ Has-A relationship
 Example:
 
 Car has an Engine
+
 12. Aggregation
 Weak Has-A relationship
 
-Example:
-
-Department has Teachers
+========================================done===============================
 13. Association
 One-to-One
 One-to-Many
 Many-to-Many
+
+
 14. Object Lifecycle
 Creation
 Reference counting
 Garbage Collection
 Deletion
+
+ 
 15. Properties
 @property
 Getter
 Setter
 Deleter
+
+
 16. Decorators in OOP
 @property
 @classmethod
 @staticmethod
 Custom decorators
+
+
 17. Abstract Base Classes
 from abc import ABC
 Abstract class
