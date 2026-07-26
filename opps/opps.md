@@ -41,15 +41,22 @@ Default constructor
 Parameterized constructor
 Constructor chaining
 Calling parent constructor using super()
+
 4. Destructor
 __del__()
 Object cleanup
+
+
 5. Instance vs Class
 Instance Variables
 self.name
+
 Class Variables
 class Student:
     school = "ABC School"
+=============done =======================================
+
+
 6. Types of Methods
 Instance Method
 def display(self):
@@ -59,11 +66,14 @@ def create(cls):
 Static Method
 @staticmethod
 def add(a, b):
+
 7. Access Modifiers
 Public
 Protected
 Private
 Name Mangling
+
+
 8. Special (Magic/Dunder) Methods ⭐⭐⭐⭐
 __init__
 __str__
